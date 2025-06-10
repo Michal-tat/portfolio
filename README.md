@@ -1,2 +1,1 @@
-# portfolio
-I want to learn git.
+#A simple project for learning Git and GitHub. Not for flexing html and css.

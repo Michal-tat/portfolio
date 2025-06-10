@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(29, 22, 22);
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:beige;
+}
+
+ul {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;
+    color:beige;
+}
+
+a {
+    color:beige;
+}
