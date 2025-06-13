@@ -19,3 +19,9 @@ ul {
 a {
     color:beige;
 }
+
+p {
+    display: flex;
+    color:antiquewhite;
+    justify-content: center
+}
